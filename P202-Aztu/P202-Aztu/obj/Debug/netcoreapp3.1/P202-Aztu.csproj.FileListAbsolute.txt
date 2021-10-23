@@ -1,0 +1,13 @@
+D:\Aztu-P202\P202-Aztu\P202-Aztu\bin\Debug\netcoreapp3.1\P202-Aztu.exe
+D:\Aztu-P202\P202-Aztu\P202-Aztu\bin\Debug\netcoreapp3.1\P202-Aztu.deps.json
+D:\Aztu-P202\P202-Aztu\P202-Aztu\bin\Debug\netcoreapp3.1\P202-Aztu.runtimeconfig.json
+D:\Aztu-P202\P202-Aztu\P202-Aztu\bin\Debug\netcoreapp3.1\P202-Aztu.runtimeconfig.dev.json
+D:\Aztu-P202\P202-Aztu\P202-Aztu\bin\Debug\netcoreapp3.1\P202-Aztu.dll
+D:\Aztu-P202\P202-Aztu\P202-Aztu\bin\Debug\netcoreapp3.1\P202-Aztu.pdb
+D:\Aztu-P202\P202-Aztu\P202-Aztu\obj\Debug\netcoreapp3.1\P202-Aztu.csprojAssemblyReference.cache
+D:\Aztu-P202\P202-Aztu\P202-Aztu\obj\Debug\netcoreapp3.1\P202-Aztu.AssemblyInfoInputs.cache
+D:\Aztu-P202\P202-Aztu\P202-Aztu\obj\Debug\netcoreapp3.1\P202-Aztu.AssemblyInfo.cs
+D:\Aztu-P202\P202-Aztu\P202-Aztu\obj\Debug\netcoreapp3.1\P202-Aztu.csproj.CoreCompileInputs.cache
+D:\Aztu-P202\P202-Aztu\P202-Aztu\obj\Debug\netcoreapp3.1\P202-Aztu.dll
+D:\Aztu-P202\P202-Aztu\P202-Aztu\obj\Debug\netcoreapp3.1\P202-Aztu.pdb
+D:\Aztu-P202\P202-Aztu\P202-Aztu\obj\Debug\netcoreapp3.1\P202-Aztu.genruntimeconfig.cache
